@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Stefanie Walsh</title>
+    <link>https://walsh1998.github.io/post/</link>
+    <description>Recent content in Projects on Stefanie Walsh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jan 2022 12:01:00 -0400</lastBuildDate><atom:link href="https://walsh1998.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating My Tableau Resume</title>
+      <link>https://walsh1998.github.io/post/a-my-tableau-resume/</link>
+      <pubDate>Thu, 13 Jan 2022 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/a-my-tableau-resume/</guid>
+      <description>Tableau Resume on Tableau Public
+Note: Full Screen is the best setting to view the dashboard
+Coming into the New Year of 2022, I had some spare time, so I decided to pick up a project I have been wanting to do for a long time but was always unsure of where to begin. The task was to create my own Tableau Resume. After doing some googling around and looking up some videos on YouTube, I felt confident that I could create my own.</description>
+    </item>
+    
+    <item>
+      <title>Analytical Consulting for Bonutti Technologies</title>
+      <link>https://walsh1998.github.io/post/medtech/</link>
+      <pubDate>Mon, 01 Feb 2021 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/medtech/</guid>
+      <description>This project received 2nd place ($300) in the Analytical Consulting Competition as well as the Top Presentation Award ($100)
+Utilizing a database of over 400+ medical tables, this study will examine how to best optimize a patient&amp;rsquo;s surgical outcomes prior to joint knee replacement surgery. From there, we will develop a decision-support tool using RShinyApp for the patient that gives them insights about their chance of post-operative success based on factors about themself or other controllable variables.</description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering Project with Large Autoparts Retailer</title>
+      <link>https://walsh1998.github.io/post/feateng/</link>
+      <pubDate>Mon, 01 Feb 2021 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/feateng/</guid>
+      <description>Project placed 3rd in the INFORMS Conference Student Poster Competition
+Abstract
+This study provides feature engineering recommendations for predictive modelers, data scientists, and analytics practitioners on how to improve demand forecasts for sparsely demanded specialized products based on collaborative experiments with a national auto parts retailer.
+Any seasoned modeler knows that predictive modeling is a process and there are many possibilities on how one might clean, pre-process, and format their data prior to training a model.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Daily Total Cash Used for Teacher&#39;s Credit Union</title>
+      <link>https://walsh1998.github.io/post/tcu/</link>
+      <pubDate>Mon, 01 Feb 2021 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/tcu/</guid>
+      <description>We won 2nd place in the Crossroads Analytics Competition ($3000) for our solution
+For the first Crossroads Analytics Competition, we were tasked with predicting daily total cash used for each branch for Teacher&amp;rsquo;s Credit Union. Our idea was to utilize machine learning techniques while using a feature engineering approach to create additional variables besides the specific branch and the date to predict the total cash used. We tried several different types of linear and tree-based models, but our final model was a LightGBM model with a SMAPE of 84.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Masters Program Outcomes Through Course Offerings</title>
+      <link>https://walsh1998.github.io/post/usingr/</link>
+      <pubDate>Mon, 01 Feb 2021 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/usingr/</guid>
+      <description>Project won 1st place in the OR/MS Student Poster Competition
+This project was for my Using R for Analytics class. The goal was to create an R Shiny App that helps a business and did two types of analytics (descriptive, predictive, prescriptive). Utilizing data on Analytics Masters Programs, we were tasked with taking a look at the course offerings and see the impact of course offerings on program outcomes like Starting Salary and Placement Rate.</description>
+    </item>
+    
+    <item>
+      <title>The Impact of Broadband Access Vs. Broadband Adoption on Indiana Public School Performance</title>
+      <link>https://walsh1998.github.io/post/webdata/</link>
+      <pubDate>Sun, 01 Nov 2020 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/webdata/</guid>
+      <description>In this project, we set out to understand the impact of broadband adoption vs. broadband access on school performance for public schools in Indiana. The team grabbed public access csvs on school grade performance in Indiana as well as data on the technology each school utilized, specifically focused on 1-to-1 tech programs. Then, we scraped the counties and cities from the census website as well as the percent of broadband access in each city or county utilizing BeautifulSoup in Python.</description>
+    </item>
+    
+    <item>
+      <title>West Lafayette, IN Apartment Rental Market Project</title>
+      <link>https://walsh1998.github.io/post/marketingresearch/</link>
+      <pubDate>Fri, 02 Oct 2020 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/marketingresearch/</guid>
+      <description>In this project, my group was tasked with creating and testing a marketing survey. Our focus was to take a look at the rental market in West Lafayette, IN. Specifically, as more high-rise apartments and upscale buildings are being built around town, we wanted to get an idea of whether students could even afford that type of living or whether there was a different type of apartment that would appeal to more students in the area.</description>
+    </item>
+    
+    <item>
+      <title>Advanced Business Analytics Project</title>
+      <link>https://walsh1998.github.io/post/advbus/</link>
+      <pubDate>Thu, 01 Oct 2020 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/advbus/</guid>
+      <description>For the course, my team was tasked with forecasting daily minimum temperatures in Melbourne, Australia using data from 1981-1990. Utilizing Holt-Winters, we were able to predict with an RMSE of 2.55. Other models we tried included ARIMA(RMSE = 4.26), Simple Moving Average(RMSE = 3.18), Time Series Linear Model with Trend and Seasonality(RMSE = 2.68), and Simple Exponential Model(RMSE = 2.6). We then discussed how our model could be implemented in Australia&amp;rsquo;s commercial fishing industry to improve efficiency and provide fisherman a tool to decide when the best time is to fish.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Defaults on Loans</title>
+      <link>https://walsh1998.github.io/post/sasem/</link>
+      <pubDate>Thu, 01 Oct 2020 12:01:00 -0400</pubDate>
+      
+      <guid>https://walsh1998.github.io/post/sasem/</guid>
+      <description>For this project, the goal was to predict whether an individual defaulted on a loan using SAS Enterprise Miner and compete in a Kaggle Competition against our classmates. The metric utilized was AUC. Our strategy was to divide up the types of models and test different parameter options for each model. While we tried different data pre-processing techniques like upsampling methods or transformations, we found that for most, if not all of the models, the preprocessing hurt overall performance.</description>
+    </item>
+    
+  </channel>
+</rss>
